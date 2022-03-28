@@ -1,0 +1,2 @@
+# M1_Movie_Ticket_Booking_System
+Naming convention:  M1_Movie_Ticket_Booking_System_MiniProject
