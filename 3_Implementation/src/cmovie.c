@@ -5,9 +5,9 @@ int movieselect(void)
 	int i;
 	printf("\t\t\tMovie Name\n");
 	printf("\t\t\t-------------------------------------\n");
-	printf("\t\t\tpress 1 for KGF-2\n\n");
-	printf("\t\t\tpress 2 for RRR\n\n");
-	printf("\t\t\tpress 3 for BATMAN\n");
+	printf("\t\t\tpress 1 for Harry Potter\n\n");
+	printf("\t\t\tpress 2 for The Invisible Man\n\n");
+	printf("\t\t\tpress 3 for Tenet\n");
 	scanf("%d",&i);
 	return i;
 }
