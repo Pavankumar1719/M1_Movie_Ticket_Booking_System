@@ -1,4 +1,4 @@
-# Requiremnets
+# Requirements
 
 ## Introduction 
 
