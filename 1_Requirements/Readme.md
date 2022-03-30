@@ -11,10 +11,10 @@ The aim of the project is to provide information of the MOVIE TICKET BOOKING SYT
 
 ## Features
 
-*   #### Booking tickets
-*   #### Change ticket price (only admin)
-*   #### Cancel tickets
-*   #### View all booking recprds
+*   ### Booking tickets
+*   ### Change ticket price (only admin)
+*   ### Cancel tickets
+*   ### View all booking recprds
 
 ## Benifits
 
@@ -27,7 +27,7 @@ The aim of the project is to provide information of the MOVIE TICKET BOOKING SYT
 ## Defining Our System
 
 ### Explanation
-*   ##### Movie Ticket Booking System have few inbuilt features like Admin:
+*   #### Movie Ticket Booking System have few inbuilt features like Admin
 Login, Can Change Price of a Ticket, Can View the Reserved Tickets, Exit System, User, Login with Credatials, View the Movies Avaliable, Purchase a Ticket, View the avaliable seats, Cancel a Ticket and Exit System.
 
 ## 4W's and 1'H
