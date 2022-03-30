@@ -1,11 +1,11 @@
 # Design
 
-##  Architecture Design
+##  Architecture-Design
 
 ### Workflow 
 ![Workflow](https://user-images.githubusercontent.com/102242702/160637835-0ba95cab-9e71-46fd-b086-92b5d568e65b.PNG)
 
-### Use_Case Block-Diagram
+### Use-Case-Block-Diagram
 ![Use_Case](https://user-images.githubusercontent.com/102242702/160637855-4262c8a9-6c6f-4984-88aa-e2a37ba6a6d2.PNG)
 
 ### Level_0
