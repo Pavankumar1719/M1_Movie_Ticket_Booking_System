@@ -15,7 +15,7 @@ int main()
 		*(seatnum+i)=(int *)calloc(101,sizeof(int ));
 	int x;
 	char pass[10],pak[10]="user";
-while(x!=3)
+while(x!==3)
 	{
         a:choice=enterchoice();
 		switch(choice)
@@ -57,7 +57,7 @@ while(x!=3)
 
                 case 1:
                     printf("Enter the password to book the ticket: ");
-                    scanf("%s",pass);
+                    scanf("%s",&pass);
                     if (strcmp(pass,pak)==0){
                         selection=ListofMovies();
                         reserveticket(seatnum[selection-1],price,selection);
