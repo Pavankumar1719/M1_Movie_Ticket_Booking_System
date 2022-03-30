@@ -15,6 +15,6 @@ Naming convention:  M1_Movie_Ticket_Booking_System_MiniProject
 | ------- | --------------------- |
 | `1_Requirments` | Documents detailinh requirement and research  |
 | `2_Architecture`  | Documents specifying design details |
-| `3_Implementation`  | ALl code and Documentation  |
+| `3_Implementation`  | All code and Documentation  |
 | `4_Test_Plan_and_Output`  | Documents with test plans and procedures  |
 | `5_Images`  | Sceenshots of the output code and workflow  |
