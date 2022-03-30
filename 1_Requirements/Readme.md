@@ -11,18 +11,18 @@ The aim of the project is to provide information of the MOVIE TICKET BOOKING SYT
 
 ## Features
 
-*   ####  Booking tickets
-*   ####  Change ticket price (only admin)
-*   ####  Cancel tickets
-*   ####  View all booking recprds
+*   #### Booking tickets
+*   #### Change ticket price (only admin)
+*   #### Cancel tickets
+*   #### View all booking recprds
 
 ## Benifits
 
 ### Movie Ticket Booking system provides wide range of benefit they are as follows
-*   ####  Provides flexibility
-*   ####  For better performance
-*   ####  User Friendly
-*   ####  Can Select the seats as per choice
+*   #### Provides flexibility
+*   #### For better performance
+*   #### User Friendly
+*   #### Can Select the seats as per choice
 
 ## Defining Our System
 
