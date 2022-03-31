@@ -8,3 +8,13 @@ Naming convention:  M1_Movie_Ticket_Booking_System_MiniProject
 * [Codiga](https://api.codiga.io/project/32220/score/svg)-Static Analysis![codiga](https://user-images.githubusercontent.com/102242702/160826295-239d2fd6-ae0a-4815-8f2c-1eb1dd6970f9.PNG)
 * [![Codacy Security Scan](https://github.com/Pavankumar1719/M1_Movie_Ticket_Booking_System/actions/workflows/codacy.yml/badge.svg)](https://github.com/Pavankumar1719/M1_Movie_Ticket_Booking_System/actions/workflows/codacy.yml)
 * [![CI](https://github.com/Pavankumar1719/M1_Movie_Ticket_Booking_System/actions/workflows/main.yml/badge.svg)](https://github.com/Pavankumar1719/M1_Movie_Ticket_Booking_System/actions/workflows/main.yml)
+
+##  Folder Structure
+
+| Folder  |       Description     |
+| ------- | --------------------- |
+| `1_Requirments` | Documents detailinh requirement and research  |
+| `2_Architecture`  | Documents specifying design details |
+| `3_Implementation`  | All code and Documentation  |
+| `4_Test_Plan_and_Output`  | Documents with test plans and procedures  |
+| `5_Images`  | Sceenshots of the output code and workflow  |
