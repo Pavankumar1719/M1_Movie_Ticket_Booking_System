@@ -1,9 +1,9 @@
 /**
  * @file function.h
- * @author Goutami D Honagannavar (you@domain.com)
- * @brief 
+ * @author Pavankumar.R
+ * @brief Online movie ticket booking system 
  * @version 0.1
- * @date 2021-09-05
+ * @date 2022-03-30
  * 
  * @copyright Copyright (c) 2021
  * 
@@ -23,15 +23,6 @@
 #include <string.h>
 #include "math.h"
 #include "assert.h"
-
-
-
-       
-
-
-
-
-
 #endif /* #define _FUNCTION_H__ */
 
 
