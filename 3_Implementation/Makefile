@@ -1,4 +1,4 @@
-PROJ_NAME = Movie_Ticket_Booking_System
+PROJ_NAME = project_main
 SRC = main.c\
 src/cancel.c\
 src/choice1.c\
