@@ -9,6 +9,7 @@ Naming convention:  M1_Movie_Ticket_Booking_System_MiniProject
 * [![cppcheck-action](https://github.com/Pavankumar1719/M1_Movie_Ticket_Booking_System/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Pavankumar1719/M1_Movie_Ticket_Booking_System/actions/workflows/cppcheck.yml)
 * [![Contribution Check - Git Inspector](https://github.com/Pavankumar1719/M1_Movie_Ticket_Booking_System/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Pavankumar1719/M1_Movie_Ticket_Booking_System/actions/workflows/gitinspector.yml)
 * [![Unit testing](https://github.com/Pavankumar1719/M1_Movie_Ticket_Booking_System/actions/workflows/unit-test.yml/badge.svg)](https://github.com/Pavankumar1719/M1_Movie_Ticket_Booking_System/actions/workflows/unit-test.yml)
+* [![Codacy Security Scan](https://github.com/Pavankumar1719/M1_Movie_Ticket_Booking_System/actions/workflows/codacy.yml/badge.svg)](https://github.com/Pavankumar1719/M1_Movie_Ticket_Booking_System/actions/workflows/codacy.yml)
 
 
 ##  Folder Structure
