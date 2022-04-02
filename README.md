@@ -6,8 +6,7 @@ Naming convention:  M1_Movie_Ticket_Booking_System_MiniProject
 ##  Badges
 * Codacy-Static Code Analysis[![Codacy Badge](https://app.codacy.com/project/badge/Grade/b39302fa2ac2461fa518aeb001d88d8e)](https://www.codacy.com/gh/Pavankumar1719/M1_Movie_Ticket_Booking_System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Pavankumar1719/M1_Movie_Ticket_Booking_System&amp;utm_campaign=Badge_Grade)
 * [Codiga](https://api.codiga.io/project/32220/score/svg)-Static Analysis![codiga](https://user-images.githubusercontent.com/102242702/160826295-239d2fd6-ae0a-4815-8f2c-1eb1dd6970f9.PNG)
-* [![Codacy Security Scan](https://github.com/Pavankumar1719/M1_Movie_Ticket_Booking_System/actions/workflows/codacy.yml/badge.svg)](https://github.com/Pavankumar1719/M1_Movie_Ticket_Booking_System/actions/workflows/codacy.yml)
-* [![CI](https://github.com/Pavankumar1719/M1_Movie_Ticket_Booking_System/actions/workflows/main.yml/badge.svg)](https://github.com/Pavankumar1719/M1_Movie_Ticket_Booking_System/actions/workflows/main.yml)
+
 
 ##  Folder Structure
 
