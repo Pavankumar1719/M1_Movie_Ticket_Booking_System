@@ -30,7 +30,7 @@ The aim of the project is to provide information of the MOVIE TICKET BOOKING SYT
 *   #### Movie Ticket Booking System have few inbuilt features like Admin
 Login, Can Change Price of a Ticket, Can View the Reserved Tickets, Exit System, User, Login with Credatials, View the Movies Avaliable, Purchase a Ticket, View the avaliable seats, Cancel a Ticket and Exit System.
 
-###  SWOT Analysis
+### SWOT Analysis
 ![Swot-analysis](https://user-images.githubusercontent.com/102242702/161382467-c8b8a5de-0b8d-4d98-b6d5-7c98484e57e4.PNG)
 
 ## 4W's and 1'H
@@ -54,7 +54,7 @@ Login, Can Change Price of a Ticket, Can View the Reserved Tickets, Exit System,
 
 ### Details requirements
 
-##  Low Level-Requirement  
+## Low Level-Requirement  
 |  ID    |                 Description                   |  HLR ID  | Status(Implementated/Future)  |
 |  ---   | --------------------------------------------- | -------- | ----------------------------- |
 | LR01  | User shall be able to login to the system with correct login details  | HR01  | `Implementated` |
@@ -65,12 +65,12 @@ Login, Can Change Price of a Ticket, Can View the Reserved Tickets, Exit System,
 | LR06  | If user specifies seat number which is booked, message appears that the seat is unavailable | HR03  | `Implementated` |
 | LR07  | Displaying the summary of the ticket booked | HR03  | `Implementated` |
 
-##  High Level-Requiements
+## High Level-Requiements
 |  ID    |                 Description                   |  Category  | Status |
 |  ---   | --------------------------------------------- | -------- | ----------------------------- |
-| LR01  | User shall be able to login the system  | Technical  | `Implementated` |
-| LR02  | User shall be able to purchase a ticket | Technical  | `Implementated` |
-| LR03  | User shall be able to get summary of the ticket booked | Technical  | `Implementated` |
-| LR04  | User shall be able to cancel a ticket | Technical  | `Implementated` |
-| LR05  | User shall be able to view the reserved seats | Technical  | `Implementated` |
+| LR01  | User shall be able to login the system  | Technical | `Implementated` |
+| LR02  | User shall be able to purchase a ticket | Technical | `Implementated` |
+| LR03  | User shall be able to get summary of the ticket booked | Technical | `Implementated` |
+| LR04  | User shall be able to cancel a ticket | Technical | `Implementated` |
+| LR05  | User shall be able to view the reserved seats | Technical | `Implementated` |
 
