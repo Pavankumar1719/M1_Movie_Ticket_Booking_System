@@ -5,7 +5,7 @@
  * @version 0.1
  * @date 2022-03-30
  * 
- * @copyright Copyright (c) 2021
+ * @copyright Copyright (c) 2022
  * 
  */
 #ifndef __FUNCTION_H__
