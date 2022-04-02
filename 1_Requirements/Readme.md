@@ -30,6 +30,9 @@ The aim of the project is to provide information of the MOVIE TICKET BOOKING SYT
 *   #### Movie Ticket Booking System have few inbuilt features like Admin
 Login, Can Change Price of a Ticket, Can View the Reserved Tickets, Exit System, User, Login with Credatials, View the Movies Avaliable, Purchase a Ticket, View the avaliable seats, Cancel a Ticket and Exit System.
 
+###  SWOT Analysis
+![Swot-analysis](https://user-images.githubusercontent.com/102242702/161382467-c8b8a5de-0b8d-4d98-b6d5-7c98484e57e4.PNG)
+
 ## 4W's and 1'H
 ## Who
 *   People wish to book the ticket to watch in theater
