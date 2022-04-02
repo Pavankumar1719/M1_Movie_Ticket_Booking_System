@@ -51,3 +51,26 @@ Login, Can Change Price of a Ticket, Can View the Reserved Tickets, Exit System,
 ## How
 
 *   By creating a system which will provide all the functionalities required,the booking of, cancelling of the tickes and other actions will be take more time and system needs more workers for these actions
+
+### Details requirements
+
+##  Low Level-Requirement  
+|  ID    |                 Description                   |  HLR ID  | Status(Implementated/Future)  |
+|  ---   | --------------------------------------------- | -------- | ----------------------------- |
+| LR01  | User shall be able to login to the system with correct login details  | HR01  | `Implementated` |
+| LR02  | User need to book a ticket in a user entry mode | HR01  | `Implementated` |
+| LR03  | If appropriate login details are not entered a message is displayed "Wrong password" | HR01  | `Implementated` |
+| LR04  | Displaying the movies available | HR02  | `Implementated` |
+| LR05  | Admin can change the price for the movie | HR02  | `Implementated` |
+| LR06  | If user specifies seat number which is booked, message appears that the seat is unavailable | HR03  | `Implementated` |
+| LR07  | Displaying the summary of the ticket booked | HR03  | `Implementated` |
+
+##  High Level-Requiements
+|  ID    |                 Description                   |  Category  | Status |
+|  ---   | --------------------------------------------- | -------- | ----------------------------- |
+| LR01  | User shall be able to login the system  | Technical  | `Implementated` |
+| LR02  | User shall be able to purchase a ticket | Technical  | `Implementated` |
+| LR03  | User shall be able to get summary of the ticket booked | Technical  | `Implementated` |
+| LR04  | User shall be able to cancel a ticket | Technical  | `Implementated` |
+| LR05  | User shall be able to view the reserved seats | Technical  | `Implementated` |
+
