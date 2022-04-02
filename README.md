@@ -8,6 +8,7 @@ Naming convention:  M1_Movie_Ticket_Booking_System_MiniProject
 * [Codiga](https://api.codiga.io/project/32220/score/svg)-Static Analysis![codiga](https://user-images.githubusercontent.com/102242702/160826295-239d2fd6-ae0a-4815-8f2c-1eb1dd6970f9.PNG)
 * [![cppcheck-action](https://github.com/Pavankumar1719/M1_Movie_Ticket_Booking_System/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Pavankumar1719/M1_Movie_Ticket_Booking_System/actions/workflows/cppcheck.yml)
 * [![Contribution Check - Git Inspector](https://github.com/Pavankumar1719/M1_Movie_Ticket_Booking_System/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Pavankumar1719/M1_Movie_Ticket_Booking_System/actions/workflows/gitinspector.yml)
+* [![Unit testing](https://github.com/Pavankumar1719/M1_Movie_Ticket_Booking_System/actions/workflows/unit-test.yml/badge.svg)](https://github.com/Pavankumar1719/M1_Movie_Ticket_Booking_System/actions/workflows/unit-test.yml)
 
 
 ##  Folder Structure
