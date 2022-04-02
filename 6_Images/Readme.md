@@ -1,4 +1,4 @@
-## Screenshots of Output
+## Screenshots of Outputs
 
 ### Login_page
 ![Image1_login_page](https://user-images.githubusercontent.com/102242702/160635881-9907e5b4-652f-482c-b80a-e31b61a954d6.PNG)
