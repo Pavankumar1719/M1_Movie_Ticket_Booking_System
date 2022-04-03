@@ -12,7 +12,7 @@
 *   The aim of the project is to provide information of the MOVIE TICKET BOOKING SYTEM to a customer to book the tickets.The project has been developed to carry out process easily and quickly.The system enables the user to Book tickets,Cancel tickets,View all booking records.
 *   Admin can use Online Movie Ticket Booking System to insert and delete data such as movie description, movie schedule which will update the related webpage and will be accessible by the customers.
 *   It provide another way for the customers to buy ticket. This system reduces work load on customers, it is an automatic ticket booking system instead of standing in queue.
-*   This system is basically aimed to provide complete information of the movie and schedule to the customer, according to which he can book the ticktes.
+*   This system is basically aimed to provide complete information of the movie and schedule to the customer, according to which he can book the tickets.
 
 ![Movie_Ticket_Banner](https://user-images.githubusercontent.com/102242702/160821485-85969bb5-2b7a-412f-a0cf-edfca4a0c6b7.png)
 
